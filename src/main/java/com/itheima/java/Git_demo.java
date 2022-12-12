@@ -9,5 +9,7 @@ public class Git_demo {
         System.out.println("hello,git5");
         System.out.println("hello,git;hot-fix");
         System.out.println("hello,git;master");
+        System.out.println("push git");
+
     }
 }
