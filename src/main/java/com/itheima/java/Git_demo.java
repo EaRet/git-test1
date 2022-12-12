@@ -10,6 +10,6 @@ public class Git_demo {
         System.out.println("hello,git;hot-fix");
         System.out.println("hello,git;master");
         System.out.println("push git");
-
+        System.out.println("pull git");
     }
 }
