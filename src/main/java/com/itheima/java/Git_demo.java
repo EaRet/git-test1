@@ -7,6 +7,6 @@ public class Git_demo {
         System.out.println("hello,git3");
         System.out.println("hello,git4");
         System.out.println("hello,git5");
-        System.out.println("hello,git");
+        System.out.println("hello,git;hot-fix");
     }
 }
